@@ -5,7 +5,12 @@
   - I enjoy working with the C programming language and learning new things.  
   - I’m always eager to explore new technologies and improve my skills.  
   - I love solving challenging problems and turning ideas into functional projects.  
-  
+
+- 🎮 **Pulse Runner**:  
+  Pulse Runner is a fast-paced platformer inspired by [Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash). In this game, you control a cube that moves horizontally through levels filled with obstacles and spikes. The goal is to avoid these obstacles by jumping at the right time.  
+  Players can unlock new skins and levels by completing stages, and the game features a shop to customize your character's appearance.  
+  You can find the project here: [Pulse Runner](https://github.com/sbnh1/pulse-runner).
+
 - 🔭 I’m currently working on [Crazy Potion](https://github.com/sbnh1/crazy_potion), a web application for exploring, searching, and managing drink recipes through an ingredient hierarchy, with features like personalized favorites and user accounts
 
 
