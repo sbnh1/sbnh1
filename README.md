@@ -11,7 +11,13 @@
   Players can unlock new skins and levels by completing stages, and the game features a shop to customize your character's appearance.  
   You can find the project here: [Pulse Runner](https://github.com/sbnh1/pulse-runner).
 
-- 🔭 I’m currently working on [Crazy Potion](https://github.com/sbnh1/crazy_potion), a web application for exploring, searching, and managing drink recipes through an ingredient hierarchy, with features like personalized favorites and user accounts
+- 🔭 **Twisk**:  
+  Twisk is a queue simulation tool that allows users to design and test their own workflows. Built with Java for the GUI (JavaFX) and using C for client simulation via multithreading, it integrates both with JNI.  
+  Users can design custom workflows, configure client arrival rates, and simulate client processing in real-time. The app supports saving and loading simulation worlds as `.json` files.  
+  You can find the project here: [Twisk](https://github.com/sbnh1/Twisk).
+
+- 🔭 I’m currently working on [Crazy Potion](https://github.com/sbnh1/crazy_potion), a web application for exploring, searching, and managing drink recipes through an ingredient hierarchy, with features like personalized favorites and user accounts.
+
 
 
 
