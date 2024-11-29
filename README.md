@@ -16,7 +16,7 @@
   Users can design custom workflows, configure client arrival rates, and simulate client processing in real-time. The app supports saving and loading simulation worlds as `.json` files.  
   You can find the project here: [Twisk](https://github.com/sbnh1/Twisk).
 
-- 🔭 I’m currently working on [Crazy Potion](https://github.com/sbnh1/crazy_potion), a web application for exploring, searching, and managing drink recipes through an ingredient hierarchy, with features like personalized favorites and user accounts.
+- 🔭 I’m currently working on [Crazy Potion](https://github.com/porteenbois/crazy_potion), a web application for exploring, searching, and managing drink recipes through an ingredient hierarchy, with features like personalized favorites and user accounts.
 
 
 
