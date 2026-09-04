@@ -1,21 +1,18 @@
-<h1 align="center">Hi 👋, I'm sbnh1</h1>
-<h3 align="center">3rd Year IT Student</h3>
+<div align="center">
+  <h1>Hi 👋, I'm sbnh1</h1>
+  <p><b>M2 Cybersecurity Student | Low-level & C Enthusiast</b></p>
+</div>
 
-- ⚡ About Me:  
-  - I enjoy working with the C programming language and learning new things.  
-  - I’m always eager to explore new technologies and improve my skills.  
-  - I love solving challenging problems and turning ideas into functional projects.  
+<br>
 
-- 🎮 **Pulse Runner**:  
-  Pulse Runner is a fast-paced platformer inspired by [Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash). In this game, you control a cube that moves horizontally through levels filled with obstacles and spikes. The goal is to avoid these obstacles by jumping at the right time.  
-  Players can unlock new skins and levels by completing stages, and the game features a shop to customize your character's appearance.  
-  You can find the project here: [Pulse Runner](https://github.com/sbnh1/Pulse_Runner).
+**Current Focus**
+* Master's degree (M2) in Cybersecurity.
+* Exploring low-level programming, memory manipulation, and reverse engineering.
 
-- 🛠️ **Twisk**:  
-  Twisk is a queue simulation tool that allows users to design and test their own workflows. Built with Java for the GUI (JavaFX) and using C for client simulation via multithreading, it integrates both with JNI.  
-  Users can design custom workflows, configure client arrival rates, and simulate client processing in real-time. The app supports saving and loading simulation worlds as `.json` files.  
-  You can find the project here: [Twisk](https://github.com/sbnh1/Twisk).
-
+**Experience & Projects**
+* 🧮 **[core-math](https://github.com/sbnh1/glibc.git) (INRIA Internship):** Worked on the `glibc` library, contributing to correctly rounded mathematical functions.
+* 🎯 **osu! PP Counter (WIP):** Developing a live performance points counter utilizing memory pattern scanning.
+* 🛠️ **[Twisk](https://github.com/sbnh1/Twisk.git):** A queue simulation tool combining a JavaFX GUI with a C multithreaded engine via JNI.
 
 
 
